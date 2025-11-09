@@ -11,5 +11,4 @@ def solution(spell, dic):
     if len(answer) == 0:
         return 2
     return 1
-    print(answer)
     
